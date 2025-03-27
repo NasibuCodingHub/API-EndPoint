@@ -55,11 +55,11 @@ Import the provided students_db.sql file to set up tables and sample data.
 
 ## 🔌 Endpoints
 # 1. /students
-📝 Description: Fetches all student records.
-🔹 Method: GET
-📂 Response:
+📝 Description: Fetches all student records.<br>
+🔹 Method: GET <br>
+📂 Response:<br>
 
 # 2. /subjects
-📝 Description: Fetches subjects grouped by year and status.
-🔹 Method: GET
-📂 Response:
+📝 Description: Fetches subjects grouped by year and status.<br>
+🔹 Method: GET <br>
+📂 Response: <br>
