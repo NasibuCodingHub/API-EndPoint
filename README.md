@@ -53,3 +53,13 @@ Create a database students_db in MySQL.
 
 Import the provided students_db.sql file to set up tables and sample data.
 
+## 🔌 Endpoints
+# 1. /students
+📝 Description: Fetches all student records.
+🔹 Method: GET
+📂 Response:
+
+# 2. /subjects
+📝 Description: Fetches subjects grouped by year and status.
+🔹 Method: GET
+📂 Response:
